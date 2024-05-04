@@ -1,0 +1,2 @@
+# sddm-config
+SDDM FILES
