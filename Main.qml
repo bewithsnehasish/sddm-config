@@ -12,6 +12,7 @@
 // contained in this file or in other files that you received along with
 // SDDM Sugar Candy that refer to the author(s) in accordance with
 // sections §4, §5 and specifically §7b of the GNU General Public License.
+
 //
 // SDDM Sugar Candy is distributed in the hope that it will be useful,
 // but WITHOUT ANY WARRANTY; without even the implied warranty of
